@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel A. Bermudez Gagot</h1>
-<h3 align="center">A passionate Full-Stack Developer from Puerto Rico</h3>
+<h3 align="center">Full-Stack Developer | DIY Enthuciast | Based in San Juan, Puerto Rico</h3>
 
 - 🔭 I’m currently working on **Wrkr App**
 
