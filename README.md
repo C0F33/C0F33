@@ -1,21 +1,54 @@
-<h1 align="center">Hi 👋, I'm Angel A. Bermudez Gagot</h1>
-<h3 align="center">Full-Stack Developer | DIY Enthuciast | Based in San Juan, Puerto Rico</h3>
+<!-- Profile README for C0F33 -->
 
-- 🔭 I’m currently working on **Wrkr App**
+<h1 align="center">Hi there, I'm Angel Bermudez Gagot (C0F33) 👋🔥</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Freelancer-blue" alt="Freelancer Badge"/>
+  <a href="https://www.linkedin.com/in/angel-bermudez-gagot-678581108/">
+    <img src="https://img.shields.io/badge/LinkedIn-Angel%20Bermudez%20Gagot-blue?logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
-- 🌱 I’m currently learning **C++, Unreal Engine, SQL**
+---
 
-- 👯 I’m looking to collaborate on **my first video game project**
+### 💻 About Me
 
-- 🤝 I’m looking for help with **C++ projects**
+- 🚀 **Freelance Full Stack Developer**  
+- 💡 Skilled in **C, C#, Python, JavaScript**
+- 🔥 Also a passionate **fire performer**
+- 🎮 Unity & C# enthusiast, with experience from [Holberton School](https://www.holbertonschool.com/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/C0F33](https://github.com/C0F33)
+---
 
-- 💬 Ask me about **C fundamentals**
+### 🌟 Personal Motto
+> *"Easy come, easy go. Work and persevere—no doubt you'll make it here."*
 
-- 📫 How to reach me **a.a.gagot@gmail.com**
+---
 
+### 🛠️ Languages & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
+---
+
+### 📌 Featured Projects
+
+- [holbertonschool-unity](https://github.com/C0F33/holbertonschool-unity) — Unity projects and game dev portfolio
+- [holbertonschool-csharp](https://github.com/C0F33/holbertonschool-csharp) — C# exercises and projects
+- [holbertonschool-0x04-unity-publishing](https://github.com/C0F33/holbertonschool-0x04-unity-publishing) — Game publishing with Unity
+- [holbertonschool-0x03-unity-ui](https://github.com/C0F33/holbertonschool-0x03-unity-ui) — UI/UX in Unity
+
+---
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Bermudez%20Gagot-blue?logo=linkedin)](https://www.linkedin.com/in/angel-bermudez-gagot-678581108/)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Keep+coding+%E2%9A%99%EF%B8%8F+Keep+performing+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
